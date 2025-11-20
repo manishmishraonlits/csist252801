@@ -1,0 +1,38 @@
+FOSS: Free and Open Source Software
+
+Source Code:-			Written for a programming language compiler/interpreter
+Executable Code
+
+1. Write an algorithm to read length and breadth of a rectangle and find its area.
+
+Step 1: Start
+Step 2: Read l, b
+Step 3: a = l * b
+Step 4: Print a
+Step 5: Stop
+
+2. Write an algorithm to read marks scored by a student in any three subjects and 
+   find his total marks obtained.
+
+Step 1: Start
+Step 2: Read eng, hin, maths
+Step 3: tm =  eng + hin + maths
+Step 4: Print tm
+Step 5: Stop
+
+3. Write an algorithm to read principal, rate and time and calculate simple interest.
+4. Write an algorithm to read temperature in degree Celsius and convert it to degree
+   Fahrenheit.
+5. Write an algorithm to read an integer and find its factorial.
+
+Problem Solving (using programming)
+1. Analysis
+2. Design
+3. Coding
+4. Testing
+5. Maintenance
+
+Abacus (soroban) is considered as the first computer.
+
+Assignment:
+Write a note on punched cards
