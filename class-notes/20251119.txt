@@ -1,0 +1,45 @@
+Characteristics of Computer
+1. Automatic
+2. Speed
+3. Accuracy
+4. Diligence
+5. Versatility
+6. Storage
+
+Ayush wants to prepare tea:
+
+1. Take some milk in a sauce pan.
+2. Add some water.
+3. Add tea.
+4. If needed, add sugar.
+5. Add ginger.
+6. Boil for some time.
+7. Serve hot
+
+Algorithm: The collection of steps involved in solving a problem.
+
+Ruhi wants to add two integer:	
+1. Start
+2. Ask the first number and store it.
+3. Ask the second number and store it.
+4. Find the sum and store it.
+5. Tell the sum
+6. Stop
+
+1. Start
+2. Read a, b		scanf("%d%d", &a, &b);    cin >> a >> b;
+3. c = a + b
+4. Print c
+5. Stop
+
+
+
+Algorithmic thinking
+
+Simplicity vs Simplism
+
+Abstraction
+
+Git
+vs
+GitHub
