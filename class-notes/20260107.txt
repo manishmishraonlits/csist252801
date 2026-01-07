@@ -1,0 +1,43 @@
+Write an algorithm to read an integer and display its factors.
+Step 1: Start
+Step 2: Read n
+Step 3: Repeat step 4 for i = 1 to n
+Step 4: 	If(n%i==0)
+			print i
+		[End of if statement]
+	[End of loop]
+Step 5: Stop
+
+Write an algorithm to read an integer and count its factors.
+Step 1: Start
+Step 2: Set count=0
+Step 3: Read n
+Step 4: Repeat step 5 for i = 1 to n
+Step 5: 	If(n%i==0)
+			count = count + 1
+		[End of if statement]
+	[End of loop]
+Step 6: Print count
+Step 7: Stop
+
+While
+For
+
+Characteristics of a good program:
+- Efficient
+- Robust
+- Readable
+- Maintainable
+- Correct
+
+count = 0;
+printf("Enter an integer: ");
+scanf("%d", &n);
+for(i=1; i<=n; i++)
+{
+	if(n%i==0)
+	{
+		count++;
+	}	
+}
+printf("%d has %d factors.", n, count);
