@@ -1,0 +1,23 @@
+Algorithms: Step by step procedure to solve a problem.
+
+1. Sequential Flow
+2. Branching Flow
+3. Iterative Flow
+
+Write an algorithm to print "C was developed by Dennis Ritche in 1972" 500000 times.
+
+Step 1: Start
+Step 2:	Repeat Step 3 For i = 1 To 5000000
+Step 3: Print "C was developed by Dennis Ritche in 1972"
+	[End of loop]
+Step 4: Stop
+
+WAP to print all the prime numbers between 1 and 5000000.
+WAP to read an integer and find whether  is prime or not.
+WAP to read an integer and find its factorial.
+
+5! = 5 x 4 x 3 x 2 x 1 = 120	1 x 2 x 3 x 4 x 5
+13!
+
+Count is known		- For
+Count is unknown	- While
