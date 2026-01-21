@@ -1,0 +1,9 @@
+Algorithm: (Triple Sum Condition) To compute the sum of the two input values. If the two values are the same, then return triple their sum.
+Step 1: Start
+Step 2: Read a, b
+Step 3: s = a + b
+Step 4: If a = b Then
+	s = 3 * s
+Step 5: Print s
+Step 6: Stop
+

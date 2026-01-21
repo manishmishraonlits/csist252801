@@ -1,0 +1,14 @@
+Algorithm: To print "Hello World!"
+
+Step 1: Start
+Step 2: Print "Hello World!"
+Step 3: Stop
+
+printf("Hello World!");
+
+lowercase
+UPPERCASE
+PascalCase
+camelCase
+snake_case
+kebab-case

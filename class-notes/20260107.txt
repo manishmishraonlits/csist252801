@@ -8,7 +8,7 @@ Step 4: 	If(n%i==0)
 	[End of loop]
 Step 5: Stop
 
-Write an algorithm to read an integer and count its factors.
+Algorithm: Write an algorithm to read an integer and count its factors.
 Step 1: Start
 Step 2: Set count=0
 Step 3: Read n

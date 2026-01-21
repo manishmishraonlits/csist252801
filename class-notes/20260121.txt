@@ -1,0 +1,8 @@
+Tools required to create a program:
+1. A functional brain
+2. Wit
+3. Stationery (Paper, pen, pencil)
+4. Computer
+5. Text Editor
+6. SDK - Software Development Kit (Preprocessor, Compiler, Linker, Assembler)
+7. Execution Environment (OS)
