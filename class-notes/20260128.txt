@@ -1,0 +1,9 @@
+Algorithm: Read length & breadth of rectangle and find its area.
+
+Step 1: Start
+Step 2: Read l, b
+Step 3: a = l * b
+Step 4: Print a
+Step 5: Stop
+
+%d, %f, etc - Format string, Control string, Format specifier
