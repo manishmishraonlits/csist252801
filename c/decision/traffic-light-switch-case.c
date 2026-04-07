@@ -19,20 +19,14 @@ int main(void)
     switch (c)
     {
     case 'r':
-        printf("Stop!");
-        break;
     case 'R':
         printf("Stop!");
         break;
     case 'y':
-        printf("Slow Down!");
-        break;
     case 'Y':
         printf("Slow Down!");
         break;
     case 'g':
-        printf("Go!");
-        break;
     case 'G':
         printf("Go!");
         break;
