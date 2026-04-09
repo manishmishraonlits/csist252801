@@ -1,0 +1,5 @@
+1. WAP to display first n natural numbers.
+2. WAP to display the sum of first n natural numbers.
+3. WAP to read a number and find its factorial.
+4. WAP to read a number and find its factors.
+5. WAP to read a number and find whether it is prime or not.
