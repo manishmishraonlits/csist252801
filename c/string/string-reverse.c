@@ -1,0 +1,5 @@
+/*
+WAP to read a string and display its reverse.
+WAP to read a string and copy it in another array.
+WAP to read a string and find whether it is a pallindrome or not.
+*/
