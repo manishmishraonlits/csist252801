@@ -29,3 +29,4 @@ void print_date(DATE d)
     char months[12][10] = {"January", "February", "March", "April", "May"};
     printf("%s %d, %d", months[d.month - 1], d.day, d.year);
 }
+
