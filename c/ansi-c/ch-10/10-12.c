@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX 2
+#define MAX 5
 
 typedef struct census
 {
@@ -154,4 +154,13 @@ Patna
 Muzaffarpur
 3960901
 65.68
+Kishangnaj
+1349005
+57.04
+Darbhanga
+3220979
+58.26
+Gaya
+1849422
+66.35
 */
