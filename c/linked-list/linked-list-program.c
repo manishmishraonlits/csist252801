@@ -60,6 +60,8 @@ node *insert_sort(node *list, int x)
     p->next = p2;
     if(p1 == NULL)    
           list=p;
+else
+      p1->next = p;
     return (list);    
 }
 
