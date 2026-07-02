@@ -12,7 +12,7 @@ int main(void)
         printf("1. Add New Book\n");
         printf("2. View all books\n");
         printf("Enter choice [0 to exit]: ");
-        scanf("%d", &ch);
+        scanf("%d%*c", &ch);
 
         switch (ch)
         {
@@ -20,7 +20,7 @@ int main(void)
             printf("Bye!");
             return 0;
         case 1:
-            newbook();
+            newbookform();
             break;
         default:
             printf("\nInvalid Input!\n\n");

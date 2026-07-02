@@ -10,3 +10,4 @@ typedef struct book
 } BOOK;
 
 void newbook();
+void newbookform();

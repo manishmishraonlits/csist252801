@@ -3,12 +3,20 @@
 void newbookform()
 {
     BOOK book;
+    printf("Enter book details:\n");
+    printf("Title: ");
+    scanf("%[^\n]%*c", book.title);
+    printf("Author: ");
+    scanf("%[^\n]", book.author);
     newbook(&book);
 }
 
 void newbook(BOOK *book)
 {
     FILE *fp;
-    printf("Sizeof book is %d bytes.\n\n", sizeof(book));
-    printf("\nThis is new book module and is under construction!\n\n");
+    fp = fopen("book.csv", "a");
+    fprintf(fp, "%s,", book->title);
+    fprintf(fp, "%s\n", book->author);
+    fclose(fp);
+    printf("\nData Saved!\n\n");
 }
