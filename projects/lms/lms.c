@@ -22,6 +22,9 @@ int main(void)
         case 1:
             newbookform();
             break;
+        case 2:
+            getallbooks();
+            break;
         default:
             printf("\nInvalid Input!\n\n");
         }

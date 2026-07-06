@@ -11,3 +11,4 @@ typedef struct book
 
 void newbook();
 void newbookform();
+void getallbooks();
